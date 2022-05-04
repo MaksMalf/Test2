@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  Test2
-//
-//  Created by Maksim Malofeev on 04/05/2022.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -13,7 +6,5 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         view.backgroundColor = .systemRed
     }
-
-
 }
 
